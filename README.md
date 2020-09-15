@@ -6,7 +6,7 @@
 
 ### Часть 1. C++
 
-* [От структур к классам](L1.%20From%20structures%20to%20classes.pptx)
+* [От структур к классам](L1.%20From%20structures%20to%20classes.pdf)
 * Объектно-ориентированное программирование
 * Стандартная библиотека
 * *Обобщенное и функциональное программирование*
@@ -22,5 +22,3 @@
 
 * [Основной сайт курса](nsu-programming.github.io/)
 * [Сайт с баллами за задачи](https://cpp-python-nsu.inp.nsk.su/)
-* [Telegram-группа](https://t.me/joinchat/AUYsQB3G9rNJFOjLIGRgdw)
-  
