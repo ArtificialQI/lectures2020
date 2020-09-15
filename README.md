@@ -20,5 +20,5 @@
 
 ## Полезные ссылки
 
-* [Основной сайт курса](nsu-programming.github.io/)
+* [Основной сайт курса](https://nsu-programming.github.io/)
 * [Сайт с баллами за задачи](https://cpp-python-nsu.inp.nsk.su/)
