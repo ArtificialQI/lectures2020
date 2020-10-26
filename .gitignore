@@ -1,1 +1,5 @@
 *.pptx
+data.txt
+.ipynb_checkpoints
+*.html
+.vscode
