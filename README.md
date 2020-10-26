@@ -9,11 +9,11 @@
 * [От структур к классам](L1.%20From%20structures%20to%20classes.pdf)
 * [Классы (продолжение)](L2.%20Advanced%20classes.pdf)
 * [Стандартная библиотека](L3.%20Standard%20library.pdf)
-* *Обобщенное и функциональное программирование*
+* [Практика программирования](Lecture%204)
 
 ### Часть 2. Python
 
-* Введение в Python
+* [Введение в Python](L5_Python_Introduction.ipynb)
 * Обзор стандартной библиотеки
 * Вычисления с Scipy I
 * Вычисления с Scipy II
