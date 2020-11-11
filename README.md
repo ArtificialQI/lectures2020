@@ -14,7 +14,7 @@
 ### Часть 2. Python
 
 * [Введение в Python](L5_Python_Introduction.ipynb)
-* Обзор стандартной библиотеки
+* [Обзор стандартной библиотеки](L6_Python_Introduction2.ipynb)
 * Вычисления с Scipy I
 * Вычисления с Scipy II
 
