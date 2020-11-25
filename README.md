@@ -15,7 +15,7 @@
 
 * [Введение в Python](L5_Python_Introduction.ipynb)
 * [Обзор стандартной библиотеки](L6_Python_Introduction2.ipynb)
-* Вычисления с Scipy I
+* [Вычисления с Scipy: пакет `numpy`](L7_numpy.ipynb)
 * Вычисления с Scipy II
 
 ## Полезные ссылки
