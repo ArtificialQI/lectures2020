@@ -18,7 +18,11 @@
 * [Scipy: пакет `numpy`](L7_numpy.ipynb)
 * [Scipy: пакет `matplotlib`](L8_matplotlib.ipynb)
 
+### Бонус-лекций
+
+* [Инструменты для численной оптимизации](L9_Opimization.ipynb)
+
 ## Полезные ссылки
 
-* [Основной сайт курса](https://nsu-programming.github.io/)
-* [Сайт с баллами за задачи](https://cpp-python-nsu.inp.nsk.su/)
+* [Сайт курса](https://cpp-python-nsu.inp.nsk.su/)
+* [Еще один сайт курса](https://nsu-programming.github.io/)
