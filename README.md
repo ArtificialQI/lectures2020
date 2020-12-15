@@ -26,3 +26,4 @@
 
 * [Сайт курса](https://cpp-python-nsu.inp.nsk.su/)
 * [Еще один сайт курса](https://nsu-programming.github.io/)
+
