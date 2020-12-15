@@ -18,7 +18,7 @@
 * [Scipy: пакет `numpy`](L7_numpy.ipynb)
 * [Scipy: пакет `matplotlib`](L8_matplotlib.ipynb)
 
-### Бонус-лекций
+### Бонус-лекция
 
 * [Инструменты для численной оптимизации](L9_Opimization.ipynb)
 
